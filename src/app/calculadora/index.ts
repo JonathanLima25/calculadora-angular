@@ -1,1 +1,1 @@
-export * from './calculadora.bootstrapModule';
+export * from './calculadora.module';
